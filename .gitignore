@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Local development context and raw QA artifacts
+.agents/
+.codex/
+docs/qa/
+docs/evidence/
+docs/PLAN.md
+docs/RETRO.md

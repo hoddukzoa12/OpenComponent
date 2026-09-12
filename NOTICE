@@ -1,0 +1,10 @@
+OpenComponent
+Copyright 2026 OpenComponent contributors
+
+Original OpenComponent code is licensed under the Apache License, Version 2.0.
+Bundled third-party code retains its upstream licenses. See
+THIRD_PARTY_LICENSES.txt in exported projects, or
+public/THIRD_PARTY_LICENSES.txt in this repository.
+
+For exported projects, this notice applies to code supplied by OpenComponent;
+it does not assign a license to user-authored content or assets.

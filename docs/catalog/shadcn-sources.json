@@ -1,0 +1,681 @@
+{
+  "verifiedAt": "2026-09-12",
+  "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+  "license": "MIT",
+  "entries": [
+    {
+      "name": "accordion",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/accordion.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "99de242681eb43121969db02bbb102aeeb1865ef52c7635672508a58c5429085",
+      "local": "src/components/ui/accordion.tsx",
+      "localSha256": "ced1e58a0cb6836ac3c2cceb48c8cd6def30b488d17da85d07cd16312d993228",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "alert-dialog",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/alert-dialog.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "b3dfb83e54ed8c82071df5289e5149628bf573458fc2da2d62f93f8380041b28",
+      "local": "src/components/ui/alert-dialog.tsx",
+      "localSha256": "3922ea706a4debe33330323a5b5ebcdc312c9c763afc538db5901a13694279f6",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "alert",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/alert.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "d03dcae5cdb63c381c1144ca9a0c49ba0e46466967d7deb94662034042acb034",
+      "local": "src/components/ui/alert.tsx",
+      "localSha256": "afeb8ee000195794ccffbf82ab1860bf083e61d355cbe1385fc6ad73fdecfae8",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "aspect-ratio",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/aspect-ratio.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407",
+      "local": "src/components/ui/aspect-ratio.tsx",
+      "localSha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "attachment",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/attachment.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "243feb168430d01288586d2460822e7789ffde8ebf2d0c436fa73c59c3d764e5",
+      "local": "src/components/ui/attachment.tsx",
+      "localSha256": "2b21884b65f6ed328da38954519beb75b338842e78aac554ec8c620b89c2791c",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "avatar",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/avatar.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "0c5c48b8a1dff4fdc5ff9b6cb79cc9cd138682b7d86868068f571befe9675e88",
+      "local": "src/components/ui/avatar.tsx",
+      "localSha256": "d6b19fe40f7e7d5fd4ba8a4dc38632defa4df0e2a82adde6347773427148f882",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "badge",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/badge.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "13a9380dfff853ee730c14a52df49f22aecd31f40f2998d7c1e7ec458b6e1650",
+      "local": "src/components/ui/badge.tsx",
+      "localSha256": "0311bb21a5dc8c1e3d70ffc35cccc375c90e2f08bb0f0dd943dad72c19ed45ff",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "breadcrumb",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/breadcrumb.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "c75fcd3d9e8470188bc0dd4b27a2b26fff3ad42b9c9c534a953dc090ae2cba33",
+      "local": "src/components/ui/breadcrumb.tsx",
+      "localSha256": "38b323cd1ab64e41cb19958ad6bc0282beeaabaf0cf400f076781bbcdc5228b0",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "bubble",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/bubble.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "df1e461e33e835b7f69296939c2325e8cd76941b5ec69375d80d639793c5c4e2",
+      "local": "src/components/ui/bubble.tsx",
+      "localSha256": "64bcd36ae5bef0c96999bd816edad0faa269eb86e4e394c5895572977f81eacb",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "button-group",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/button-group.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "a9ac862707ff8d78255f2696baf48f9a87d9e92e21eb476f8f9e9361313c1761",
+      "local": "src/components/ui/button-group.tsx",
+      "localSha256": "7c861671c7df17a0c83e87e61cbafb5d94d0549f4cd2e8b5fe59af3d25135394",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "button",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/button.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "79dd6f75f8136394442202d6b8b922fb269eaad0a5dba579397c9d5b41f893bb",
+      "local": "src/components/ui/button.tsx",
+      "localSha256": "557e27d5d3159c338da761c5aec138dcd32d313b5a55774ea8001c3f3bfc620c",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "calendar",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/calendar.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "78ed2cc49dafc5bb5df7b1d4a325e5fc314237386747362e5f0761a2c539a934",
+      "local": "src/components/ui/calendar.tsx",
+      "localSha256": "fc19054a481a596b2528b4fa946d6a58bd3be18569c0c01ab9c51e9b07f0b4da",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "card",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/card.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "ef8305b12c3112dab42a4708b41b1ebcc042fa5ab4c20f039da8d45b09ed5059",
+      "local": "src/components/ui/card.tsx",
+      "localSha256": "39480d5b63e46554f1cfcedaa91052c848bda5c45d7a5dda80fe91e7be604fb0",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "carousel",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/carousel.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "70ba30941a3adb448166ddcf8557c97734b7be09f6fd69512a6e444084365557",
+      "local": "src/components/ui/carousel.tsx",
+      "localSha256": "d547ded3a008fb2d5513790e2d315da82a27881288bde1ffc41c9f6d988a5885",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "chart",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/chart.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "35e2fa755465ef8eb8ff8b483d493204d452152e7a8863474b1a69f5d44484db",
+      "local": "src/components/ui/chart.tsx",
+      "localSha256": "ac5b32c92c63276538c09c418ab7af1f65a3372f578e276bcb8330d51266bfe5",
+      "adaptations": ["Local import paths and shared cn utility.",
+        "Measure chart content in unscaled layout pixels and preserve forwarded refs while the editor changes zoom."]
+    },
+    {
+      "name": "checkbox",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/checkbox.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "ba0ac64064e2d8fa7299d53e9e84b9a4772fef8dd4cf6170c56d3030a1d69941",
+      "local": "src/components/ui/checkbox.tsx",
+      "localSha256": "a7068fe7b1840081a0dfdb62a29a39bda24e3cff6752a8788249301a8a79e331",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "collapsible",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/collapsible.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b",
+      "local": "src/components/ui/collapsible.tsx",
+      "localSha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "combobox",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/combobox.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "4f88734887ed6928ec7f3a78dfc814a48fb0e0c3056fd5825b72b59a61da0d8a",
+      "local": "src/components/ui/combobox.tsx",
+      "localSha256": "6eaeb6eff410e8b81bfcb709ca33476ce7edf716d9058399c5f9d4ffb9d2e96e",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "command",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/command.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "319e9264567dd46f04d705028bc345470663ca5919f31292c4ec43ea5ceb9336",
+      "local": "src/components/ui/command.tsx",
+      "localSha256": "47f33e1a635a0236d4a0c6f905e0d03b37ca08a6c8dde6c1f4bc0249bc9e07e3",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "context-menu",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/context-menu.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "bcde5df1ed9887bb050f0badabfb5f79912eb53bdc883dbe6c003d05914d99a4",
+      "local": "src/components/ui/context-menu.tsx",
+      "localSha256": "48256f4c96a5ac5f2dda6fc451a732e6f1b644774a93dd7e6d4cb938e0b0ac67",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "dialog",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/dialog.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "2ade6074e5fad0a4eb171ead44c43d3301a3c83d186d7236fb1fdbea80ee556b",
+      "local": "src/components/ui/dialog.tsx",
+      "localSha256": "1c8108a0eed7a3853abdf5cd3cb3a78ea8cdf922304ebb86406a935c7a8b2700",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "direction",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/direction.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6",
+      "local": "src/components/ui/direction.tsx",
+      "localSha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "drawer",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/drawer.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "63f04fe50a4bf29b56b0f5e2944c6efe980b895f589923659cc2e8ecc90b16c6",
+      "local": "src/components/ui/drawer.tsx",
+      "localSha256": "a104832aebdf516e2683035e6546d6997ca90a95ca280b5c4fa47769e1af0364",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "dropdown-menu",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/dropdown-menu.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "d954efb735f13734751207ad22cb0cddd7f6ec53c59d16675d103dae08cb61fb",
+      "local": "src/components/ui/dropdown-menu.tsx",
+      "localSha256": "36e292a7299d51446759dbd1d6d3209479cb0f7ff814d650ad3b889525ac54ef",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "empty",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/empty.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "54f529ccf72c18c4b5abd5586a7cf1f2a4c8d207aac366029d66ed095cb2965d",
+      "local": "src/components/ui/empty.tsx",
+      "localSha256": "a506c7665171485de08aa790d8d05c56f00bbf2b85175026f26686feda4bb514",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "field",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/field.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "4a4d17fcb933513f637f9f7e2daf5d8348f7de086b29738337dec7e6dd1819a0",
+      "local": "src/components/ui/field.tsx",
+      "localSha256": "9d8bb9290eb9a9a523fb746c955d2538703be7f8990cedc30d6b26f587134ec5",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "form",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/form.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "dfa22e6614b807df60bbe7e40dd44ef74cf894b358f37c3ed356ebbeef9b4599",
+      "local": "src/components/ui/form.tsx",
+      "localSha256": "606ed13af1f5df78e0c86b63c2b199e39d627576442547a48d2e3db0623b3f1f",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "hover-card",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/hover-card.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "73f59aa759656501ed615604ac3f2c04ba564acaea4529288fe3a487ad934953",
+      "local": "src/components/ui/hover-card.tsx",
+      "localSha256": "ad3698810b9d7b6ee3f389588365828a70ff5974dcdf97893ef53f1b4f8619ff",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "input-group",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/input-group.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "e379899ac50d6cabc9d9eb1668f265176951c62b1fe83a6f23ee97fe8074d526",
+      "local": "src/components/ui/input-group.tsx",
+      "localSha256": "3c7efabfb047063451f51f04a59a80a9018109b2e9035104c61bbfc557c2eddc",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "input-otp",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/input-otp.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "9f81898aeaabbb104cc22ffda551a333eb22608c543c4800412e2faaa802e311",
+      "local": "src/components/ui/input-otp.tsx",
+      "localSha256": "5c630a1e1cc82746cf1a1619f212a694f9fae47e8632d344bc296acfe6e3dff0",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "input",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/input.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "0c9457181f6ddc80969bcf854e92c362903a55b6e889fbef3fd85343ecc4af5b",
+      "local": "src/components/ui/input.tsx",
+      "localSha256": "2b8dda5bdf1ec4f92a128045e1aad897a0065120c8b5f9923b7c384ca76b50a8",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "item",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/item.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "9ade8136f010284b7ec0142f52606616dd4b23798012e75a9fc6aac1fb2d792e",
+      "local": "src/components/ui/item.tsx",
+      "localSha256": "941e53f7bd61a92281bc339b921bb464788e8a2f38fdd917ff45561e959d15a7",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "kbd",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/kbd.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "c0c0ae6a7d1adb7749b9b34cab8f4d2f5caf333e819b64c2051e77f918d3661f",
+      "local": "src/components/ui/kbd.tsx",
+      "localSha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "label",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/label.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "344bde38b8531615dbf8e14af3895517c24d8ef6ce56ddeda7e2e6fe4b5d0c00",
+      "local": "src/components/ui/label.tsx",
+      "localSha256": "db5dfcd98a78c5b7c3c01e0bb7726a3adbf0470f4d552e777ccf4751b51e6a56",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "marker",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/marker.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "036277635df058b8dc6e6dbe5cb738bc595e5035b885be42c60f904263725424",
+      "local": "src/components/ui/marker.tsx",
+      "localSha256": "3496e9fb2b45c675514d80f9144a6d502901bcb34ea89fd9b7cb3a18aa430fb5",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "menubar",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/menubar.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "ca1a7f6775f9095183d63faadc6d4ed5ee2097139b4edeeefa60210379c47092",
+      "local": "src/components/ui/menubar.tsx",
+      "localSha256": "1df3169b5ba3debf0109f388e30499eeac9377e8bedaa9f32d37b2899086d7d9",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "message-scroller",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/message-scroller.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "9f7580a8c9a59d28c30da4974a7d17bfe3a710ee945fc72765e8721cd1a6669a",
+      "local": "src/components/ui/message-scroller.tsx",
+      "localSha256": "5cc5f5b874f473f70b08de8d134a825db46058b85071cab14f35f5746b89fb11",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "message",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/message.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "64e9ae0f9d1e268b0ed7b738a53d374d273fe1e7e2dd7b35ad7417e50a9bbe6c",
+      "local": "src/components/ui/message.tsx",
+      "localSha256": "4bd0da2b253cf1eddd3b26e58a904efc990c523903af89667f69ef83521b3eae",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "native-select",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/native-select.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "4bdbce5575dce610fed747df4547a3d494713f4df8d28e09b3ccee62e4d72f93",
+      "local": "src/components/ui/native-select.tsx",
+      "localSha256": "5977b78b71c1871a09c5daa263597fd7f1eb90576bf49a5fbf0a3e86279848ae",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "navigation-menu",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/navigation-menu.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "fbe81d7c358df0d21e49b03174ef53be7d66226a3dce1a97ff3d4a260ed833a3",
+      "local": "src/components/ui/navigation-menu.tsx",
+      "localSha256": "5c56bda25883e9c0f7e43f52f4037d3aff02478c38800db416eac44ede44748b",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "pagination",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/pagination.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "224843c4f509e8b8c9848adefa43d1491846f0851138fa9b51cc6ba1319c5653",
+      "local": "src/components/ui/pagination.tsx",
+      "localSha256": "c41cdc3801e8509b6f5d0346e0494c4dd5f233358a02f020e1b098c3dc9196ec",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "popover",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/popover.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "3f99d3add6c9fa4f03721e81297ee10e1310785ee1d9d9d4c82a114d84ab0757",
+      "local": "src/components/ui/popover.tsx",
+      "localSha256": "3cbdadc71d34dc23809781a1c610146377dc07f95381537ecbf4e746d669cb89",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "progress",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/progress.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "e012e1f7e6e66d11229d1233eccf91954edcd9179b418ff1d114dc651b86fd35",
+      "local": "src/components/ui/progress.tsx",
+      "localSha256": "1f6eb12292b38dd1601319ff7d6fc7dfefb8b988813962d688b3a9782000980a",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "radio-group",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/radio-group.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "cfc4f99ee68be2fbbd70de3ffad82e1462d5e8e0bb0aecfd190a4f5115325862",
+      "local": "src/components/ui/radio-group.tsx",
+      "localSha256": "f495c56ce09167fbdd3d463b3544cbc91874e5028cc6f8fbf165300dbb342a24",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "resizable",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/resizable.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "aaf3ea20e8060c75dd86e06fedfca053d49f81071123ba647b5699efcbc010ea",
+      "local": "src/components/ui/resizable.tsx",
+      "localSha256": "2de0b3a71b18e27a54a3564fcc66eb5c12c6ee25fd6a8436c9903e705b0cef28",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "scroll-area",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/scroll-area.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "8b73bb9be51300079c7f561bafbe43ee10f6f464cf39c8c1b25123cd4edb94dd",
+      "local": "src/components/ui/scroll-area.tsx",
+      "localSha256": "55264573642c8d9182c15434638a3007b6e03e9b929bf05fbb6db8b55d5fcd36",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "select",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/select.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "962830436bd0b7ee50e556f0747e277d6a86869ed27d167516346b15f26309d8",
+      "local": "src/components/ui/select.tsx",
+      "localSha256": "f1a95fb7d58f3456b199fda9603222dd02561fb332d66ff0032172671ed8466a",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "separator",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/separator.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "ad7d5403fe337160e41dbf04147896e448ae3a747b8d06660d627d74d60021bc",
+      "local": "src/components/ui/separator.tsx",
+      "localSha256": "f9ec8dde26a5c3f2af1c48a0c588c164e350567cddc5c4070cf5ba780e984f26",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "sheet",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/sheet.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "ea473d38a26a9b0b879e5a13139899ad45e9782e896b3fa205c7763a6c506876",
+      "local": "src/components/ui/sheet.tsx",
+      "localSha256": "c937cea3361bd4d4a9d7a8053e548c104f7d9e2af4e01363387605e552146d01",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "sidebar",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/sidebar.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "2ba1a9b9422f4172373f4cd0587b675d2331a41f4fa68f65dab2b23ca98fd9d2",
+      "local": "src/components/ui/sidebar.tsx",
+      "localSha256": "7202a0ed389d8588f569c4d4ef3352f87bb91654ca1eedd041803b16bfc6ae39",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Preview state does not write a browser cookie."
+      ]
+    },
+    {
+      "name": "skeleton",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/skeleton.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "f51ce0fcd31e5c31437382e80ea0af94b4fc3d64221d27091d36824546780a43",
+      "local": "src/components/ui/skeleton.tsx",
+      "localSha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "slider",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/slider.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "6a531f6182de6efec2c25d30a7626b66cbf11cf52d505e47f907124934f7188e",
+      "local": "src/components/ui/slider.tsx",
+      "localSha256": "9ff8523ba99a37b3ed9ec1e55969926e8c92d44e158bdddf04f0e409e43a4d72",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "sonner",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/sonner.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f",
+      "local": "src/components/ui/sonner.tsx",
+      "localSha256": "2f9711984e806366b481780daceac46d20b7c23139ac07a17d3c90ee1cc15823",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Use project CSS color variables; omit next-themes dependency."
+      ]
+    },
+    {
+      "name": "spinner",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/spinner.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "5d040fc49cb54c0296070644053b5a8840ddbfca89a430546bf308df3fffad65",
+      "local": "src/components/ui/spinner.tsx",
+      "localSha256": "d07526a2f821962529e09e3b8dd55123eec0c753cced3983f8e1cbafcec7a737",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "switch",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/switch.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "743676f33f823ffa8008bbd5eb94cb68e227599447d60e132a202291a395f8e4",
+      "local": "src/components/ui/switch.tsx",
+      "localSha256": "62bd507d11a7abe5d0fc0b0bb805c794dcff5f75cff8c63e7dd58aec763d9cf5",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "table",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/table.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "bd1a9fc83a5a2149e504038e274bb7e5a0351af59f6896df52ac4d5b439695ac",
+      "local": "src/components/ui/table.tsx",
+      "localSha256": "84be8055e88e5aebcc3f0d14ec68a03129b0eb65c7619e18866fe74a3a8b81e1",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "tabs",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/tabs.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "e1df6e2f95ece373ca909c1d54b8ba8cf4c47dd425c1784bbb9a01c38dd0936b",
+      "local": "src/components/ui/tabs.tsx",
+      "localSha256": "bc6b1c115fcc9d63d8f14cecd4fcb43cd0b8b201a5d295419296fe9e0ba1623f",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "textarea",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/textarea.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "5cafcfeeee29534f449387a16b585f5923d2faab1a0cdc50a874416b175f59ce",
+      "local": "src/components/ui/textarea.tsx",
+      "localSha256": "1abd5ced613c0e3f6fbe4d0140a00fe4c8478afbb29198b6248ea2454682be4e",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "toggle-group",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/toggle-group.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "45186473eaa30a966adf16e2b0aa0d16522425fda0658e2c85b8dcb1b62956ef",
+      "local": "src/components/ui/toggle-group.tsx",
+      "localSha256": "f9d2c8102caef32186085a6e60fac79af27e9566f429b3fac85ccbb8f02383c6",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "toggle",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/toggle.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "28ae7d72730890a3ba6c668fd511c63a358ad26534c2c25d5922748d47e1fa99",
+      "local": "src/components/ui/toggle.tsx",
+      "localSha256": "05a7ea1345d08b6d61b78b95407ec67af9ede7cd090ecdf7736ddde5363a534d",
+      "adaptations": ["Local import paths and shared cn utility."]
+    },
+    {
+      "name": "tooltip",
+      "kind": "registry:ui",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/tooltip.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "611e4305879b2773eafe76bf3c5caa69d8e47367fd97887a71634a27828f4433",
+      "local": "src/components/ui/tooltip.tsx",
+      "localSha256": "ffd14861f635be0ba7e57bc95171d7136c5f66c507dd9eb8e21fb55192a2ca45",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Overlay portal targets the project theme surface."
+      ]
+    },
+    {
+      "name": "use-mobile",
+      "kind": "registry:hook",
+      "url": "https://ui.shadcn.com/r/styles/new-york-v4/use-mobile.json",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b",
+      "local": "src/components/ui/use-mobile.tsx",
+      "localSha256": "9cab3343e59ac1d20414a4ce2829d31d151802a987e5273560afcd882a4e9413",
+      "adaptations": [
+        "Local import paths and shared cn utility.",
+        "Use simulated project viewport when provided."
+      ]
+    },
+    {
+      "name": "questionnaire",
+      "kind": "registry:ui",
+      "url": "https://raw.githubusercontent.com/shadcn-ui/ui/3ba91b1cc83e1bbe4ab35a422ff2a694849c5048/apps/v4/registry/bases/radix/ui/questionnaire.tsx",
+      "revision": "3ba91b1cc83e1bbe4ab35a422ff2a694849c5048",
+      "upstreamSha256": "133ef45f190c8e2ec4595fa5e88a95149bd89cd2db0cf836deaeccef798dfbf3",
+      "local": "src/components/ui/questionnaire.tsx",
+      "localSha256": "e4649c3fa3d8f3f45c2fe916521749cfa0f1277c5a7288248e97c618290621dc",
+      "adaptations": [
+        "Local import paths and cn utility.",
+        "Resolve template icon placeholder to Lucide CheckIcon.",
+        "Apply concrete spacing, border, focus and checked state utilities in place of theme-generator cn-* tokens."
+      ]
+    }
+  ]
+}
