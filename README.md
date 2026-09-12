@@ -7,6 +7,14 @@ OpenComponent is an open source visual workspace for building React interfaces f
 
 It is an early local prototype, inspired by familiar design-tool workflows. Projects are saved in your browser; no account or backend is required.
 
+## Product demo
+
+[![OpenComponent product demo](docs/media/OpenComponent-intro-poster.png)](docs/media/OpenComponent-intro.mp4)
+
+[Watch the product demo](docs/media/OpenComponent-intro.mp4) · [Download MP4](https://github.com/hoddukzoa12/OpenComponent/raw/refs/heads/main/docs/media/OpenComponent-intro.mp4)
+
+25 seconds · 1080p · English captions · Created with Motion from actual OpenComponent screenshots.
+
 ## Features
 
 - **73 catalog entries:** 66 shadcn components and recipes, five local elements including Footer, and two adapted Magic UI metrics. See the [catalog contract](docs/SHADCN_CATALOG.md) for supported properties and limitations.

@@ -7,6 +7,14 @@ OpenComponent는 검토된 컴포넌트를 조합해 React 인터페이스를 �
 
 익숙한 디자인 도구의 작업 흐름을 참고한 초기 로컬 프로토타입입니다. 프로젝트는 브라우저에 저장되며 계정이나 백엔드 없이 사용할 수 있습니다.
 
+## 소개 영상
+
+[![OpenComponent 소개 영상](docs/media/OpenComponent-intro-poster.png)](docs/media/OpenComponent-intro.mp4)
+
+[소개 영상 보기](docs/media/OpenComponent-intro.mp4) · [MP4 다운로드](https://github.com/hoddukzoa12/OpenComponent/raw/refs/heads/main/docs/media/OpenComponent-intro.mp4)
+
+25초 · 1080p · 영어 문구 · 실제 OpenComponent 화면을 기반으로 Motion으로 제작했습니다.
+
 ## 주요 기능
 
 - **카탈로그 73개:** shadcn 컴포넌트·조합 66개, Footer를 포함한 자체 요소 5개, Magic UI 지표 컴포넌트 2개. 지원 속성과 제한은 [카탈로그 안내](docs/SHADCN_CATALOG.md)를 참고하세요.
