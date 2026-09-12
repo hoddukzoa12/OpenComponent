@@ -9,9 +9,9 @@ It is an early local prototype, inspired by familiar design-tool workflows. Proj
 
 ## Product demo
 
-[![OpenComponent product demo](docs/media/OpenComponent-intro-poster.png)](docs/media/OpenComponent-intro.mp4)
+https://github.com/user-attachments/assets/60a3fe2c-4172-463f-bd3b-46f0b97ee573
 
-[Watch the product demo](docs/media/OpenComponent-intro.mp4) · [Download MP4](https://github.com/hoddukzoa12/OpenComponent/raw/refs/heads/main/docs/media/OpenComponent-intro.mp4)
+[Download MP4](https://github.com/hoddukzoa12/OpenComponent/raw/refs/heads/main/docs/media/OpenComponent-intro.mp4)
 
 25 seconds · 1080p · English captions · Created with Motion from actual OpenComponent screenshots.
 

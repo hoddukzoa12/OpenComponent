@@ -9,9 +9,9 @@ OpenComponent는 검토된 컴포넌트를 조합해 React 인터페이스를 �
 
 ## 소개 영상
 
-[![OpenComponent 소개 영상](docs/media/OpenComponent-intro-poster.png)](docs/media/OpenComponent-intro.mp4)
+https://github.com/user-attachments/assets/60a3fe2c-4172-463f-bd3b-46f0b97ee573
 
-[소개 영상 보기](docs/media/OpenComponent-intro.mp4) · [MP4 다운로드](https://github.com/hoddukzoa12/OpenComponent/raw/refs/heads/main/docs/media/OpenComponent-intro.mp4)
+[MP4 다운로드](https://github.com/hoddukzoa12/OpenComponent/raw/refs/heads/main/docs/media/OpenComponent-intro.mp4)
 
 25초 · 1080p · 영어 문구 · 실제 OpenComponent 화면을 기반으로 Motion으로 제작했습니다.
 
